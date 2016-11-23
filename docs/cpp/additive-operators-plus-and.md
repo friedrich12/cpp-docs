@@ -82,7 +82,8 @@ expression – expression
   
  Note that addition and subtraction are not equivalent operations.  
   
- If both operands are of arithmetic type, the conversions covered in [Arithmetic Conversions](../misc/arithmetic-conversions.md) are applied to the operands, and the result is of the converted type.  
+ If both operands are of arithmetic type, the 
+ covered in [Arithmetic Conversions](https://msdn.microsoft.com/en-us/library/aetzh118.aspx) are applied to the operands, and the result is of the converted type.  
   
 ## Example  
   
